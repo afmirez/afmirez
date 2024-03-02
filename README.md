@@ -1,6 +1,6 @@
-# 👋 Hey, I'm Andrés Ramirez!
+# 👋 Hey, I'm Andrés Ramirez | Full Stack Developer 
 
-## Full Stack Developer 
+
 
 ### 🪓 Code Philosophy
 
@@ -8,12 +8,16 @@
 
 Inspired by this philosophy, I believe in the power of simplicity and efficiency in code. Regularly reviewing and refining code ensures that it remains lean, maintainable, and aligned with project goals. Embracing the art of subtraction often leads to more elegant and effective solutions.
 
-### 🚀 Core Skills
+### 💻 Core Skills
 
-- **Languages:** C#, SQL, HTML, CSS, JavaScript (Angular, Vanilla)
-- **Frameworks:** ASP.NET Core, Bootstrap/Tailwind
-- **Tools:** GitHub, Jira
+- **Languages:** C#, JavaScript, TypeScript
+- **Frameworks:** ASP.NET, Angular
+- **Databases:** MSSQL
+- **Frontend:** HTML, CSS (Bootstrap, Tailwind)
+- **Version Control:** Git, GitHub
+- **Project Management:** Jira
 - **Methodologies:** Scrum, Agile Development
+
 
 ### 📫 Let's Connect
 
