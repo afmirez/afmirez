@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 Hey, I'm Andrés Ramirez!
 
-<!--
-**afmirez/afmirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer 
 
-Here are some ideas to get you started:
+### 🪓 Code Philosophy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"One of my most productive days was throwing away 1,000 lines of code." - Kent Thompson
+
+Inspired by this philosophy, I believe in the power of simplicity and efficiency in code. Regularly reviewing and refining code ensures that it remains lean, maintainable, and aligned with project goals. Embracing the art of subtraction often leads to more elegant and effective solutions.
+
+### 🚀 Core Skills
+
+- **Languages:** C#, SQL, HTML, CSS, JavaScript (Angular, Vanilla)
+- **Frameworks:** ASP.NET Core, Bootstrap/Tailwind
+- **Tools:** GitHub, Jira
+- **Methodologies:** Scrum, Agile Development
+
+### 📫 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/amirezsilva)
+- [Email](mailto:ramirezsilva.andres.felipe@gmail.com)
+- [GitHub](https://github.com/afmirez)
+
