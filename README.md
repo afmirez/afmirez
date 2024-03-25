@@ -10,8 +10,8 @@ Inspired by this philosophy, I believe in the power of simplicity and efficiency
 
 ### 💻 Core Skills
 
-- **Languages:** C#, JavaScript, TypeScript
-- **Frameworks:** ASP.NET, Angular
+- **Languages:** C#, JavaScript/TypeScript, Python
+- **Frameworks:** ASP.NET, Angular, React
 - **Databases:** MSSQL
 - **Frontend:** HTML, CSS (Bootstrap, Tailwind)
 - **Version Control:** Git, GitHub
@@ -21,7 +21,5 @@ Inspired by this philosophy, I believe in the power of simplicity and efficiency
 
 ### 📫 Let's Connect
 
-- [LinkedIn](https://linkedin.com/in/amirezsilva)
 - [Email](mailto:ramirezsilva.andres.felipe@gmail.com)
 - [GitHub](https://github.com/afmirez)
-
